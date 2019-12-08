@@ -1,2 +1,2 @@
-# Regression on Civil data set 
+# Predicting the compressive strength of Concrete
 # Data Set was downloaded from Kaggle
